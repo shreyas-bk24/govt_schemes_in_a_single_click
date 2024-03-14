@@ -6,7 +6,6 @@ footer{
     background-color: grey;
     align-self: baseline;
     /* attach the footer to the end of the page */
-    position: absolute;
     bottom: 0;
     /* width same width and height */
     width: 100%;
