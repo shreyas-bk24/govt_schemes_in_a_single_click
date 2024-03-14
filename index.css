@@ -16,3 +16,6 @@ footer{
     height:  auto;
     padding: 15px;
 }
+.card-img-top{
+    height: 350px;
+}
