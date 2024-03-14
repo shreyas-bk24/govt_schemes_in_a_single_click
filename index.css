@@ -1,7 +1,11 @@
 .card-deck{
     margin-bottom: 2em;
 }
-
+a{
+    /* disable default styles */
+    text-decoration: none !important;
+    color: inherit !important;
+}
 footer{
     background-color: grey;
     align-self: baseline;
