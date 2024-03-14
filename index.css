@@ -1,0 +1,15 @@
+.card-deck{
+    margin-bottom: 2em;
+}
+
+footer{
+    background-color: grey;
+    align-self: baseline;
+    /* attach the footer to the end of the page */
+    position: absolute;
+    bottom: 0;
+    /* width same width and height */
+    width: 100%;
+    height:  auto;
+    padding: 15px;
+}
